@@ -25,6 +25,11 @@ var config = {
     imgs: {
         "心爱的小可爱": "./images/qingqing.png",
         "今天是你的生日": "./images/qingqing2.png",
+        "这是我们在一起的": "./images/qingqing3.png",
+        "第一个生日了哦": "./images/qingqing6.png",
+        "今年要吃好的喽哦": "./images/qingqing4.png",
+        "要把我家可爱耿导喂饱饱": "./images/qingqing5.png",
+        "然后抱走": "./images/xiaokeai.png",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
